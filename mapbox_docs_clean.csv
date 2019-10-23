@@ -1,0 +1,575 @@
+title,excerpt,site
+Default callout usage,Use default appearance and interactivity of annotation callout views.,iOS
+Create a draggable Marker,Drag the Marker to a new location on a map and populates its coordinates in a display.,Mapbox GL JS
+Extrude polygons for 3D indoor mapping,Create a 3D indoor map with the fill-extrude-height paint property.,Mapbox GL JS
+Build a store locator using Mapbox GL JS,Build a map application with Mapbox GL JS. This guide walks you through all the code that you need to build a store locator.,Help
+Create a simple map view,Learn how to quickly display a Mapbox Street map in your app.,Android
+zoom level,A zoom level determines how much of a map is visible.,Help
+Advanced navigation app,Add advanced navigation functionality to an iOS app.,iOS
+Set a point after Geocoder result,Style a Marker used to mark the location of the mapbox-gl-geocoder result.,Mapbox GL JS
+shapefile,"A shapefile, also known as an Esri shapefile, is a file format for storing geographic vector data.",Help
+Storyboards,Set up Mapbox Navigation in a storyboard in Xcode.,iOS
+layout and paint properties,Layout and paint properties are two sub-properties of a layer that decides how data from the layer is rendered in maps that use Mapbox GL.,Help
+Set pitch and bearing,"Map options extend CameraOptions, so you can set more than just center and zoom.",Mapbox GL JS
+Localization and internationalization,An overview of localization and internationalization with the Mapbox Navigation SDK for iOS.,iOS
+Use third-party vector tiles,Load a third-party vector source using a custom style.,iOS
+Update a choropleth layer by zoom level,"Using 2014 census data, display state or county population depending on zoom level.",Mapbox GL JS
+Style Specification,"This specification defines and describes the visual appearance of a map: what data to draw, the order to draw it in, and how to style the data when drawing it.",Mapbox GL JS
+Work with markers in Mapbox.js,"Add custom, interactive markers to your map with Mapbox.js.",Help
+Rerouting,Learn how to use and customize off-route detection with the Mapbox Navigation SDK for iOS for app's navigation experience.,iOS
+Make a tilequery request,Use the Tilequery API to search for features in a tileset. This example queries for up to 10 buildings which are within 50 meters of the single map click location.,Android
+RecyclerView Directions,Quickly show the directions route associated with a RecyclerView item.,Android
+POI placement,An overview of the POI placement sample scene provided in the Mapbox Maps SDK for Unity.,Unity
+Annotation views,Custom annotation views with animated selection.,iOS
+filter,"A filter, also known as a predicate within iOS and macOS, gives you fine-grained control over the content of a style layer.",Help
+Place the geocoder input outside the map,Use the mapbox-gl-geocoder control to search for places using Mapbox Geocoding API attached to an element outside the map.,Mapbox GL JS
+Select a feature within a layer,Allow a user to select a feature within a style layer.,iOS
+Introduction,Get started with the Geographic Analytics Extension for Tableau.,Geographic Analytics
+Snapshotter,"Take a static snapshot photo of the map to use on the device in your app, a notification, or even to share with others.",Android
+Add a line annotation from GeoJSON,Draw a polyline by parsing a GeoJSON file.,iOS
+TileMill,TileMill is a desktop application for designing maps.,Help
+coordinate,A coordinate is the combination of longitude and latitude.,Help
+Query map features,Official documentation about querying map features within the Mapbox Maps SDK for Android. Discover how to retrieve information about a selected place of interest.,Android
+Hollow circle,Use Turf to calculate coordinates to eventually draw a ring around a center coordinate.,Android
+Change the case of labels,Use the upcase and downcase expressions to change the case of labels.,Mapbox GL JS
+Custom routes,Use the Mapbox Map Matching API with the Mapbox Navigation SDK or Navigation UI SDK for Android.,Android
+Line behind moving icon,Draw a line behind a moving SymbolLayer icon which moves along a Mapbox Directions API route.,Android
+Background fog,Add a gradient on top of a MapView to show a background fog effect.,Android
+Color dependent on zoom level,"Make a property depend on the map zoom level, in this case, the water layers fill color.",Android
+Update a choropleth layer by zoom level,"Style a choropleth map with data-driven styling, local JSON data, and vector tile geometries.",Android
+Click to add photo,Select a photo on the device and add it on the map tap location.,Android
+SymbolLayer icons,Add markers via SymbolLayer and manipulate the data in real time. A Mapillary integration is also showcased in this example.,Android
+Switch from Google Maps to Mapbox,Are you using the Google Maps API? This guide walks you through how to convert a Google web map to a Mapbox web map using Mapbox GL JS.,Help
+Show and hide a layer,Add a source and a toggleable layer.,iOS
+Animate 3D buildings based on ambient sounds,"Connects the runtime styling API with the Web Audio API, creating a map where the 3D buildings dance to the rhythm of your ambient environment.",Mapbox GL JS
+Add a hillshade layer,Add a raster-dem source as a hillshade layer for detailed slope and shading.,Mapbox Studio manual
+Add custom icons with Markers,Use Marker to add custom icons to your map.,Mapbox GL JS
+Style circles with a data-driven property,Creating a visualization with a data expression for circle-color.,Mapbox GL JS
+Animate a marker,Animate the position of a Marker by updating its location on each frame.,Mapbox GL JS
+geocoding,Geocoding is the process of taking an address or name of a place and converting it into latitude and longitude values.,Help
+Icon update based on API response,See the International Space Station location in real time.,Android
+Examples,Code examples for the Mapbox Navigation SDK for iOS.,iOS
+dataset,A dataset is an editable collection of GeoJSON features.,Help
+Mapbox Editor,Mapbox Editor was an online interface for designing maps.,Help
+Display a map with a custom style,Using a custom Mapbox-hosted style.,Mapbox GL JS
+Create new data,Learn how datasets work and how to create geospatial data from scratch using Mapbox.,Help
+Draw multiple geometries,Filter and draw multiple geometries from a single GeoJSON file.,Android
+Set up an external camera source,Use an external camera source instead of a device's built-in camera.,iOS
+Static Images API,"The Mapbox Static Images API allows you to request a standalone, static image of a map generated from a Mapbox GL-based style.",Help
+sprite,A sprite is a single image containing all icons included in a style.,Help
+Tileset sources and the Tilesets API,This feature is in beta. Learn about how to use line-delimited GeoJSON to create tileset sources and how to handle IDs in tileset sources.,Help
+Create a choropleth map,Add a fill layer and use expressions to style a choropleth map.,Mapbox Studio manual
+Picture in picture,Use the Android O release of picture-in-picture to maintain a map in a separate window.,Android
+Scale bar,Read docs on the Mapbox Scale Bar Plugin for Android. Provide a display of how far various map features are from one another at a certain zoom level.,Android
+tileset recipe,This feature is in beta. Tileset recipes describe how tileset source data should look and behave when a tileset is published by the Tilesets API.,Help
+Set up an external camera source,Use an external camera source instead of a device's built-in camera.,Android
+Map Matching API,"The Mapbox Map Matching API allows you to take recorded traces, such as the data from a GPS tracker, and snap them to the OpenStreetMap road and path network.",Help
+Add raster imagery,Dynamically add a raster source.,iOS
+Data clustering,Learn how to use the Mapbox Maps SDK for Android to show clustered data on the map.,Android
+Filter symbols by text input,Filter symbols by icon name by typing in a text input.,Mapbox GL JS
+Swipe between maps,Use mapbox-gl-compare to swipe between and synchronize two maps.,Mapbox GL JS
+latitude and longitude,Latitude and longitude are a pair of numbers (coordinates) used to describe a position on the plane of a geographic coordinate system.,Help
+Create a line layer,"Create a GeoJSON line source, style it using properties, and add the layer to the map.",Android
+Tutorials,Find a step-by-step guide to help you get started or take your project to the next level.,Help
+Create hotspots from points,Use the Mapbox Maps SDK to visualize point data as hotspots.,Android
+Generate and add a missing icon to the map,Dynamically generate a missing icon at runtime and add it to the map.,Mapbox GL JS
+Matrix,Official documentation on the Mapbox Java SDK Matrix API.,Android
+Tokens API,"The Mapbox Tokens API allows you to create, edit, and delete access tokens.",Help
+Styling heatmaps,Gain minute control over heatmap coloring.,Android
+AR navigation,Introduction to Mapbox Vision AR for iOS.,iOS
+Update a feature in realtime,Change an existing feature on your map in realtime by updating its data.,Mapbox GL JS
+Add multiple geometries from one GeoJSON source,Add a polygon and circle layer from the same GeoJSON source.,Mapbox GL JS
+Support map fragment,Include a map fragment within your app using Android support library.,Android
+Styling the map,Learn how to use the Mapbox Maps SDK for Android to change your map style to a custom style or a pre-made style made by the talented Mapbox cartography team.,Android
+SymbolLayer clustering,Use GeoJSON and SymbolLayer icons to view clustered images.,Android
+Place picker,Use the place picker function of the Places Plugin to choose a specific location in the world.,Android
+Creating access tokens with the Tokens API,Walk through creating permanent and temporary access tokens using the Tokens API.,Help
+Offline maps,Learn about how offline maps work.,Help
+Add custom icons or markers,"You can add markers, style them, and add tooltips dynamically with Mapbox GL JS. This overview samples all the ways to add custom, interactive markers.",Help
+Landsat-live,"Landsat Live is a satellite imagery source with the latest imagery, everywhere in the world.",Help
+Add a Mapbox style to a CARTO map,Add your map as a basemap to CARTO.,Help
+Introduction,A brief introduction to the Mapbox Navigation SDK for iOS.,iOS
+Uploads API,The Mapbox Uploads API transforms geographic data into tilesets that can be used with maps and geographic applications.,Help
+Variable label placement,"To increase the chance of high-priority labels staying visible, provide the map renderer a list of preferred text anchor positions.",Android
+KML,KML is a geospatial file format that’s commonly in Google products.,Help
+AR navigation,Introduction to Mapbox Vision AR for Android.,Android
+Static and print maps,Learn how the Mapbox Static Images API works and how to create static maps.,Help
+Introduction,The official overview documentation for the Mapbox Vision SDK for Android.,Android
+Adjust the zoom extent of your tileset,Learn how to manually adjust the zoom extent of your tilesets.,Help
+Find elevations with the Tilequery API,Use the Mapbox Tilequery API and the Mapbox Terrain tileset to create an app that returns the elevation at a specified coordinate.,Help
+Calendar integration,Show calendar event locations on the map.,Android
+Query a map feature,Click the map to add a marker at the location and display the maps property information for that feature.,Android
+Publish your style,Learn how to publish map styles made in Mapbox Studio.,Mapbox Studio manual
+Markers and annotations,Mapbox offers several ways to add markers to a map. Read about the benefits of each approach.,iOS
+Display buildings in 3D,Use the building plugin to easily display 3D building height.,Android
+Zoom-based icon switch,Change SymbolLayer icons based on the camera's zoom level.,Android
+style-optimized vector tiles,Style-optimized vector tiles remove any layers or features in the tile that are not represented by a Mapbox style.,Help
+Manage your fontstacks,Learn how to manage fontstacks for optimal rendering.,Help
+Iconic buildings,An overview of the iconic buildings example scene provided in the Mapbox Maps SDK for Unity.,Unity
+Geocoder,Official documentation on the Mapbox Java SDK Geocoding API.,Android
+Directions,Official documentation on the Mapbox Java SDK Directions API.,Android
+Showing device location,Showing device location with the Mapbox Maps SDK for Android.,Android
+Satellite imagery,Learn how satellite imagery works and how to use it in your next Mapbox project.,Help
+Location based games,An overview of location based game use cases.,Unity
+Change a layer's color with buttons,Using setPaintProperty to change a layer's fill color.,Mapbox GL JS
+China,"Read official documentation on the Mapbox China Plugin for Android, which maximizes the Mapbox Maps SDK for Android's performance inside China.",Android
+Add a vector tile source,Add a vector source to a map and display it as a layer.,Android
+Share snapshot image,Send and share a map snapshot image.,Android
+Toggle collision detection,Allow or deny text and icons to overlap and collide.,Android
+camera,"In maps that use Mapbox GL, the camera is a map's field of view.",Help
+Embedded Navigation,Navigation in a view which contains other views.,Android
+access token,Mapbox uses access tokens to associate your account with your requests to Mapbox API resources.,Help
+Draw GeoJSON points,Draw points from a GeoJSON collection to a map.,Mapbox GL JS
+Access Traffic Data files,Learn how to access Mapbox Traffic Data.,Traffic Data
+Add live data,Add and update a source that uses real-time data.,iOS
+User interaction,Understand how to listen for user interaction with the Mapbox Navigation UI SDK for Android.,Android
+Style lines using an identity property function,Using an identity line-color property function for a visualization.,Android
+How to use Mapbox securely,Learn how to use Mapbox securely.,Help
+Analyze data with Turf.js and Mapbox GL JS,"Using Turf.js, add spatial analysis to our map to solve problems. This guide walks through an example of Turf.js and Mapbox GL JS in a real-world context.",Help
+Create a gradient line using an expression,Use the line-gradient paint property and an expression to visualize distance from the starting point of a line.,Mapbox GL JS
+tileset source,This feature is in beta. Tileset sources are line-delimited GeoJSON sources used to create new tilesets using the Tilesets API.,Help
+Animate the map camera,"Animate the map's camera position, tilt, bearing, and zoom.",Android
+Offline routing,Mapbox offline navigation provides routing functionality from the Navigation SDK for iOS in non-connected environments.,iOS
+Add multiple shapes from a single shape source,Create style layers from a shape collection feature.,iOS
+Basic navigation app,Add basic navigation functionality to an iOS application.,iOS
+Directions API,"With the Mapbox Directions API, you can add routing with turn-by-turn directions to your map.",Help
+Mapbox Boundaries v2,Reference documentation for the Boundaries v2 tileset.,Vector tiles
+Understanding Android APK size,Learn how to measure and optimize your Android app’s size.,Help
+Build a store locator for Android,Build a store locator to integrate into an Android application.,Help
+Help,Find resources to help you build with Mapbox.,Help
+Geocoding API,"The Mapbox Geocoding API performs two main tasks, forward geocoding and reverse geocoding.",Help
+Join local JSON data with vector tile geometries,Style a choropleth map by merging local JSON data with vector tile geometries.,Android
+Places,"Read docs on the Mapbox Places Plugin for Android. Easily search destinations, explore what's nearby, or find favorite restaurants, coffee shops, or stores.",Android
+SVG,Scalable Vector Graphics (SVG) is a markup language for describing two-dimensional vector graphics.,Help
+Overview,"Browse information about Mapbox accounts, billing, and security.",Help
+Camera animation,Animate camera movement.,iOS
+source layer,A source layer is an individual layer within a source.,Help
+Jump to a series of locations,Use the jumpTo function to showcase multiple locations.,Mapbox GL JS
+Mark a place on the map with an annotation,Add a default marker with a callout and title using the Mapbox Maps SDK for iOS.,iOS
+Custom server,Generate a route using third-party data.,iOS
+Marker following route,"Using a map matched GeoJSON route, the marker travels along the route at consistent speed.",Android
+Spatial analysis,Learn how spatial analysis with Turf works and how to use Turf in your web application.,Help
+Extend Mapbox Boundaries,Extend the Mapbox Boundaries tileset.,Help
+Upload to Mapbox using cURL,Learn how to use the Mapbox Uploads API.,Help
+Mapbox web services,"Mapbox web services are the lowest-level interfaces to Mapbox - they are the APIs that our JavaScript, Objective-C, and other systems are built upon.",Help
+simplestyle,Simplestyle is an open source specification for styling GeoJSON data.,Help
+Data-driven styling for Android,Create a map for Android that styles a circle based on a data attribute.,Help
+vector tiles,"A vector tile is a lightweight data format for storing geospatial vector data, such as points, lines, and polygons.",Help
+Reference,Learn about the Mapbox Studio interface.,Mapbox Studio manual
+Directions,Learn how Mapbox’s directions services work and how to add directions services to applications across platforms.,Help
+Tilequery API,"The Mapbox Tilequery API allows you to retrieve data about specific features from a vector tileset, based on a given latitude and longitude.",Help
+Data-joins with Mapbox Boundaries,Join data with v2 of the Mapbox Boundaries tileset.,Help
+runtime styling,Runtime styling allows you to dynamically change the map style displayed on your Mapbox map in real time.,Help
+Visualize population density,Using a variable binding expression to calculate and display population density.,Mapbox GL JS
+Style ocean depth data,Uses the interpolate expression with a cubic bezier curve expression to style bathymetry data.,Mapbox GL JS
+mapnik,"Mapnik is an open source mapping toolkit for desktop and server-based map rendering, providing algorithms and patterns for spatial data access and visualization.",Help
+Default styles,Use a variety of professionally designed styles with the Mapbox Maps SDK for iOS.,iOS
+Restrict map panning to an area,Prevent a map from being panned to a different place by setting maxBounds.,Mapbox GL JS
+Adjust text labels,"Adjust the color, size, and fonts of SymbolLayer text fields.",Android
+Default styles,Use a variety of professionally designed styles with the Mapbox Maps SDK.,Android
+Help,Help and troubleshooting articles for the Mapbox Navigation SDK for iOS.,iOS
+Animated icon movement,Use Android system interpolators to animate SymbolLayer icons movement.,Android
+quadtree,A quadtree is a tree data structure.,Help
+API Reference,The Mapbox GL JS API documentation to render interactive maps from vector tiles and Mapbox styles.,Mapbox GL JS
+Troubleshoot your Atlas installation,Troubleshoot your Atlas installation.,Atlas
+Local search with the Geocoding API,This tutorial guides you through the process of creating a local search app using optional parameters from the Mapbox Geocoding API.,Help
+classic style,A classic style is a map style made with Mapbox Studio Classic.,Help
+Display a popup,Add a Popup to the map.,Mapbox GL JS
+Faster-route detection,Faster-route detection in the Mapbox Navigation SDK for Android. Read all about it in this official Mapbox documentation.,Android
+Get started with Mapbox Boundaries,Get started with v2 of the Mapbox Boundaries tileset.,Help
+Tilesets API recipe reference,"This feature is in beta. Learn about the correct format and syntax for Tilesets API recipes, or tile transformation documents.",Help
+Add a new layer below labels,"Using the second argument of addLayer, you can be more precise.",Android
+Localize the geocoder to a given language,Localize the mapbox-gl-geocoder to set the UI language and improve result relevance in that language.,Mapbox GL JS
+Maneuver instructions,Learn how instructions work in the Mapbox Navigation SDK for iOS.,iOS
+Mock navigation,Mock a navigation session using a mock location engine.,Android
+Zoomable map,An overview of the zoomable map example scene provided in the Mapbox Maps SDK for Unity.,Unity
+Mapbox Satellite,Mapbox Satellite is a global basemap of high-resolution satellite imagery.,Help
+Change your map’s label language,Learn about available languages and how to change your map’s language.,Help
+Display HTML clusters with custom properties,"This advanced example uses Mapbox GL JS clustering with HTML markers and custom property expressions. To use HTML or SVG for clusters in place of a Mapbox GL layer, you have to manually synchronize the clustered source with a pool of marker objects that updates continuously while the map view change",Mapbox GL JS
+CircleLayer clusters,Use GeoJSON and circle layers to visualize point data in clusters.,Android
+Indoor Map,Display an indoor map of a building with toggles to switch between floor levels.,Android
+Highlight features within a bounding box,Hold the Shift key and drag the map to query features using queryRenderedFeatures.,Mapbox GL JS
+Tilesets API recipe examples,This feature is in beta. Use these example tiling recipes to learn how to transform custom data into tilesets using the Mapbox Tilesets API.,Help
+Working with firewalls,General troubleshooting tips and some configuration guidance for working with Mapbox behind a firewall.,Help
+Tilesets,Learn how to create and manage tilesets in Mapbox Studio.,Mapbox Studio manual
+Basic blue-line AR navigation,Project a blue route line on the view of the road through your device.,iOS
+World-scale AR manual alignment,An overview of the world-scale AR manual alignment example provided in the Mapbox Maps SDK for Unity.,Unity
+Fit camera in bounding box,Position the camera so that all the given markers are in view.,Android
+Show changes over time with Mapbox GL JS,Build a map application with Mapbox GL JS to visualize changes in data over time.,Help
+annotation,An annotation is a defined location on a map in the Mapbox Maps SDK for iOS.,Help
+Variable label placement,Use text-variable-anchor to allow high priority labels to shift position to stay on the map.,Mapbox GL JS
+Location-based game,An overview of the location-based game example scene provided in the Mapbox Maps SDK for Unity.,Unity
+Introduction,"Introduction to Mapbox GL JS, a JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.",Mapbox GL JS
+Data format,Learn how data from Mapbox Traffic Data is formatted.,Traffic Data
+Accounts service,Overview of the Mapbox Accounts service APIs.,API
+Map features,An overview of rendering vector features in the Mapbox Maps SDK for Unity.,Unity
+Mapbox Maps SDK for Unity,"The Mapbox Maps SDK for Unity is an open source toolset for building location based augmented and virtual reality applications with Unity, using real map data.",Help
+Download an offline map,Download an offline pack and track its progress.,iOS
+Interactive tools,Experiment with Mapbox tools.,Help
+Data flow and Visualization details,How the extension works under the hood.,Geographic Analytics
+Examples,Examples for Mapbox Studio.,Mapbox Studio manual
+Map Matching,Match raw GPS points to the map so they aligns with the roads/pathways.,Android
+Faster-route detection,Faster-route detection in the Mapbox Navigation SDK for Android. Read all about it in this official Mapbox documentation.,Android
+Get started with Mapbox Boundaries,Get started with v2 of the Mapbox Boundaries tileset.,Help
+Tilesets API recipe reference,"This feature is in beta. Learn about the correct format and syntax for Tilesets API recipes, or tile transformation documents.",Help
+Add a new layer below labels,"Using the second argument of addLayer, you can be more precise.",Android
+Localize the geocoder to a given language,Localize the mapbox-gl-geocoder to set the UI language and improve result relevance in that language.,Mapbox GL JS
+Zoomable map,An overview of the zoomable map example scene provided in the Mapbox Maps SDK for Unity.,Unity
+Mapbox Satellite,Mapbox Satellite is a global basemap of high-resolution satellite imagery.,Help
+Change your map’s label language,Learn about available languages and how to change your map’s language.,Help
+Local search with the Geocoding API,This tutorial guides you through the process of creating a local search app using optional parameters from the Mapbox Geocoding API.,Help
+Display a popup,Add a Popup to the map.,Mapbox GL JS
+classic style,A classic style is a map style made with Mapbox Studio Classic.,Help
+Highlight features within a bounding box,Hold the Shift key and drag the map to query features using queryRenderedFeatures.,Mapbox GL JS
+Opacity fade,Adjust the opacity of a satellite raster layer based on zoom level.,Android
+Style circles categorically,Using a categorical circle-color property function for a visualization.,Android
+Mock navigation,Mock a navigation session using a mock location engine.,Android
+Transition from Mapbox.js to Mapbox GL JS,Learn about transitioning from using Mapbox.js to using Mapbox GL JS in your apps.,Help
+Improve the performance of Mapbox GL JS maps,Learn how to improve the performance of your Mapbox GL JS maps.,Help
+Route progress,Learn how to use a user's progress information along a route with the Mapbox Navigation SDK for iOS.,iOS
+Create a custom style,Alter a template style to create a custom map style.,Help
+map view,Map views were formerly used as a unit of measurement to track map usage on the web. Map views are now deprecated.,Help
+Get features under the mouse pointer,Using queryRenderedFeatures to show properties of hovered-over map elements.,Mapbox GL JS
+layer,Layers are used in styles to add styling rules to specific subsets of data.,Help
+Custom voice controller,Use a custom voice controller.,iOS
+Create a timezone finder with Mapbox Tilequery API,Create a timezone finder app with Mapbox Tilequery API.,Help
+Make a choropleth map with the Mapbox Visual for Power BI,Create a choropleth data map with the Mapbox Visual for Microsoft Power BI.,Help
+Show a user's location on a map fragment,Use the LocationComponent to display a user's location on a map fragment.,Android
+Troubleshooting SVG image errors in Mapbox Studio,Learn how to fix SVG upload errors in Mapbox Studio.,Help
+Examples,Code examples for the Mapbox Vision SDK for iOS.,iOS
+Change building color based on zoom level,Uses the interpolate expression to ease-in the building layer and smoothly fade from one color to the next.,Mapbox GL JS
+Toggle interactions,Enable or disable UI handlers on a map.,Mapbox GL JS
+Display real-time traffic,Use the traffic plugin to display live car congestion data on top of a map.,Android
+Global location search,"Add geocoding search functionality and UI for finding any region, country, place, or address in the world.",Android
+Migrating to v1.4,A guide to migrating your project from earlier versions of the Maps SDK for Unity to v1.4+.,Unity
+Add an image,Dark vector baselayer with radar weather image overlay.,Mapbox GL JS
+Draggable annotation views,Custom annotation views with that can be dragged.,iOS
+Build a store locator using Mapbox.js,Build a map application with Mapbox.js. This guide walks you through all the code that you need to build a store locator.,Help
+Add a generated icon to the map,Add an icon to the map that was generated at runtime.,Mapbox GL JS
+Point-in-polygon query with Mapbox Boundaries,Query data in v2 of the Mapbox Boundaries tileset.,Help
+Button interaction styling,Change various properties of a map based on user interaction and other runtime situations.,Android
+Get started with Mapbox GL JS expressions,Learn how to write expressions in Mapbox GL JS.,Help
+Introduction,Overview of Mapbox Android plugins.,Android
+Data-driven styling,Documentation for changing the look and feel of your Mapbox map in real time with the Mapbox Maps SDK for Android.,Android
+Dynamically style interactive points,"Add interactive, dynamically-styled points, derived from a web API call.",iOS
+Mapbox Streets v8,Reference documentation for the Mapbox Streets v8 tileset.,Vector tiles
+Off-route detection,Learn how to use and customize off-route detection with the Mapbox Navigation SDK for Android for your Android app's navigation experience.,Android
+Mapbox Studio,"Mapbox Studio is a web application for managing your data, tilesets, styles, access tokens, and doing anything related to your account.",Help
+Apply a style designed in Mapbox Studio Classic,Use legacy raster tiles on a map.,iOS
+Add hillshading,Adds raster hillshading to a map.,Mapbox GL JS
+Turf.js,Turf.js is a JavaScript library for spatial analysis.,Help
+Add live realtime data,Use realtime GeoJSON data streams to move a symbol on your map.,Mapbox GL JS
+Add a WMS source,Adding an external Web Map Service layer to the map.,Android
+Ischrone time slider,Use an Android seekbar slider to retrieve info from the Isochrone API. Display the data and adjust the camera accordingly.,Android
+Location camera options,Use LocationComponent camera options to customize map camera behavior.,Android
+TIFF,"A TIFF, or sometimes TIF, is a file format for saving raster images.",Help
+Blank or missing map tiles,Learn why you may be seeing blank or missing tiles.,Help
+Gestures,Detecting gestures in the Mapbox Maps SDK for Android.,Android
+Animate a line,Animate a line by updating a GeoJSON source on each frame.,Mapbox GL JS
+Events,"Documentation about map events within the Mapbox Maps SDK for Android. Read about map clicking, flinging, moving, and other Mapbox map events.",Android
+Web applications,Learn how Mapbox’s JavaScript libraries work and how to integrate them into your web applications.,Help
+Examples,Working code examples of Mapbox Plugins for Android,Android
+Adjust a layer's opacity,Drag the seek bar to adjust the opacity of a raster layer on top of a map.,Android
+Matrix API,The Mapbox Matrix API calculates travel times between many points in one API request.,Help
+Datasets,Learn how to create and manage datasets in Mapbox Studio.,Mapbox Studio manual
+Restrict map panning to an area,Prevent a map from being panned to a different place by constraining the viewport.,iOS
+Disable scroll zoom,Prevents scroll from zooming a map.,Mapbox GL JS
+Statistics and usage,Learn how Mapbox tracks usage and how to interpret usage displayed on your Statistics page.,Help
+Text anchor position,Adjust the anchor position of SymbolLayer text fields.,Android
+Use an image source,Use an image source to easily display images on the map.,Android
+Mobile applications,Learn how the Mapbox mobile SDKs work and how to add Mapbox maps to a mobile application.,Help
+Help,"Tutorials, troubleshooting guides and more to help you get started with the Mapbox Maps SDK for Android.",Android
+Data explorer,An overview of the data explorer example scene provided in the Mapbox Maps SDK for Unity.,Unity
+expression,"An expression defines a formula for computing the value of any layout property, paint property, or filter within a map style.",Help
+Build indoor floorplans with Mapbox,Upload a floorplan to create an indoor map.,Help
+Measure distances,Click points on a map to create lines that measure distanced using turf.lineDistance.,Mapbox GL JS
+overzoom,Overzoom is the result of a tileset being zoomed in beyond its given zoom extent.,Help
+Display map navigation controls,Zoom and rotation controls to make map navigation more obvious.,Mapbox GL JS
+Documentation,"Examples, tutorials, and API references to help you start building with Mapbox",Documentation
+Examples,Code examples for Mapbox GL JS.,Mapbox GL JS
+"Add points to a web map, part 3: add interactivity",Add popups when markers are clicked using Mapbox GL JS.,Help
+Examples,Code examples for the Mapbox Maps SDK for iOS.,iOS
+"Add points to a web map, Part 1: create a dataset",Create a new dataset containing points.,Help
+Upgrade Atlas,Upgrade Atlas.,Atlas
+map ID,Map IDs are used to identify vector and raster tilesets.,Help
+Settings and account management,Learn how to manage your Mapbox account settings.,Help
+Convert units,Use a formula to convert elevation values from meters to feet.,Mapbox Studio manual
+Map camera,Fine grain control over the map camera during your Android app navigation experience with the Mapbox Navigation SDK for Android. Click to learn how.,Android
+Add a third party vector tile source,Render vector data provided by Mapillary.,Mapbox GL JS
+Annotation,Mapbox Android Annotation Plugin.,Android
+Directions to selected location,Show a dotted directions route to a location that's based on map movement.,Android
+zoom extent,The zoom extent is the range of zoom levels at which a tileset is visible.,Help
+Show drawn polygon area,Use mapbox-gl-draw to draw a polygon and Turf.js to calculate its area in square meters.,Mapbox GL JS
+Fit camera in bounding box,Position the camera so that all the given markers are in view.,Android
+Show changes over time with Mapbox GL JS,Build a map application with Mapbox GL JS to visualize changes in data over time.,Help
+annotation,An annotation is a defined location on a map in the Mapbox Maps SDK for iOS.,Help
+Display a map,Initialize a map in an HTML element with Mapbox GL JS.,Mapbox GL JS
+Prototype apps with Mapbox in Framer X,Learn how to use the Mapbox component to add a map to a prototype in Framer X.,Help
+Adjust light location and color,Change the location and color of the light shined on extrusions.,Android
+Use images to cluster point data,Color & display clustered point data using images and interval-based property styling.,iOS
+Interacting with the map,An overview of individual gestures in the Mapbox Maps SDK for iOS.,iOS
+Interactive tools,Experiment with Mapbox tools.,Help
+Data flow and Visualization details,How the extension works under the hood.,Geographic Analytics
+Examples,Examples for Mapbox Studio.,Mapbox Studio manual
+Variable label placement,Use text-variable-anchor to allow high priority labels to shift position to stay on the map.,Mapbox GL JS
+Location-based game,An overview of the location-based game example scene provided in the Mapbox Maps SDK for Unity.,Unity
+Introduction,"Introduction to Mapbox GL JS, a JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.",Mapbox GL JS
+Data format,Learn how data from Mapbox Traffic Data is formatted.,Traffic Data
+Accounts service,Overview of the Mapbox Accounts service APIs.,API
+Map Matching,Match raw GPS points to the map so they aligns with the roads/pathways.,Android
+Map features,An overview of rendering vector features in the Mapbox Maps SDK for Unity.,Unity
+Analyze data with Turf.js and Mapbox.js,"Using Turf.js, you can add some spatial analysis to your map to solve problems. This guide walks through an example of Turf.js and Mapbox.js in a real-world context.",Help
+Create a static map snapshot,Create a map snapshot object.,iOS
+Display buildings in 3D,Use extrusions to display buildings' height in 3D.,Mapbox GL JS
+Reroute,Test the reroute feature inside the Navigation SDK for Android.,Android
+Mapbox Maps SDK for Unity,"The Mapbox Maps SDK for Unity is an open source toolset for building location based augmented and virtual reality applications with Unity, using real map data.",Help
+Download an offline map,Download an offline pack and track its progress.,iOS
+Astronaut game,An enhanced version of the location-based game example provided in the Mapbox Maps SDK for Unity.,Unity
+Introduction,"The official overview documentation for the Mapbox Maps SDK for Android. Learn how to customize your Android app's maps, visualize data, and much more.",Android
+Safety alerts,Introduction to Mapbox Vision Safety for Android.,Android
+Map texturing,An overview of styling buildings in the Maps SDK for Unity.,Unity
+Understanding iOS framework size,Learn how to measure and optimize your iOS app’s size.,Help
+Getting started,Getting Started with the Extension.,Geographic Analytics
+Mapbox Maps SDK for iOS,The Mapbox Maps SDK for iOS is an open source toolset for building mapping applications for iPhone and iPad devices.,Help
+baselayer,A baselayer provides geographic context and serves as a starting point for your map.,Help
+Introduction,"Overview of the Mapbox Core Libraries for Android. Easily handle device location, permissions, and connectivity for any app.",Android
+attribution,"Attribution is the combination of two visual elements that are placed on all Mapbox maps, stating that a map was created with Mapbox tools and data.",Help
+Troubleshooting App Store submission with the Mapbox Maps SDK for iOS,Learn how to troubleshoot frequently seen issues when submitting applications built with the Mapbox Maps SDK for iOS to the App Store.,Help
+Map and app styling,Customize the map style and the style of UI elements in your application.,iOS
+Add a video,Satellite raster baselayer with video on top. Click on the map to play and pause.,Mapbox GL JS
+Add a custom style layer,Use a custom style layer to render custom WebGL content.,Mapbox GL JS
+Introduction,Introduction to the Mapbox Vision SDK for iOS.,iOS
+GPX,GPX (GPS eXchange format) is a data format commonly created from GPS receivers.,Help
+Vector Tiles API,The Mapbox Vector Tiles API allows you to request a single tile from a Mapbox-hosted vector tileset.,Help
+Make a geocode request,Use the Geocoding API to receive information about specific coordinates.,Android
+Browser support,Learn which browsers support each Mapbox product.,Help
+Add an animated icon to the map,Add an animated icon to the map that was generated at runtime with a Canvas.,Mapbox GL JS
+Mark a place on the map with an image,Add a point annotation with a custom image.,iOS
+Tabletop AR,An overview of the tabletop AR example.,Unity
+tileset ID,"Tileset IDs, previously known as Map IDs, are used to identify vector and raster tilesets.",Help
+Add a custom icon,Upload an SVG and add it to the map as a custom icon.,Mapbox Studio manual
+Opacity fade,Adjust the opacity of a satellite raster layer based on zoom level.,Android
+Style circles categorically,Using a categorical circle-color property function for a visualization.,Android
+Transition from Mapbox.js to Mapbox GL JS,Learn about transitioning from using Mapbox.js to using Mapbox GL JS in your apps.,Help
+Improve the performance of Mapbox GL JS maps,Learn how to improve the performance of your Mapbox GL JS maps.,Help
+Route progress,Learn how to use a user's progress information along a route with the Mapbox Navigation SDK for iOS.,iOS
+Create a custom style,Alter a template style to create a custom map style.,Help
+map view,Map views were formerly used as a unit of measurement to track map usage on the web. Map views are now deprecated.,Help
+Get features under the mouse pointer,Using queryRenderedFeatures to show properties of hovered-over map elements.,Mapbox GL JS
+layer,Layers are used in styles to add styling rules to specific subsets of data.,Help
+Custom voice controller,Use a custom voice controller.,iOS
+Create a timezone finder with Mapbox Tilequery API,Create a timezone finder app with Mapbox Tilequery API.,Help
+Make a heatmap with Mapbox GL JS,"Add custom HTML markers, style them, and add tooltips with Mapbox GL JS.",Help
+Draw a GeoJSON line,Draw a polyline by parsing a GeoJSON file with the Mapbox Maps SDK.,Android
+Tilequery API playground,Retrieve features from vector tiles with the Mapbox Tilequery API.,Help
+GeoJSON,GeoJSON is a file format for map data served by Mapbox web services and APIs.,Help
+"Add points to a web map, part 2: create a style",Add a tileset to a template style and upload custom icons in Mapbox Studio.,Help
+Maps SDK for React Native,A community-managed React Native library for integrating Mapbox maps into mobile apps.,Help
+Slowly fly to a location,Using flyTo with flyOptions.,Mapbox GL JS
+telemetry,Telemetry is the process in which anonymous sensors create maps based on where people are moving.,Help
+Change building color based on zoom level,Uses the interpolate expression to ease-in the building layer and smoothly fade from one color to the next.,Mapbox GL JS
+Examples,Code examples for the Mapbox Vision SDK for iOS.,iOS
+Toggle interactions,Enable or disable UI handlers on a map.,Mapbox GL JS
+Display real-time traffic,Use the traffic plugin to display live car congestion data on top of a map.,Android
+Global location search,"Add geocoding search functionality and UI for finding any region, country, place, or address in the world.",Android
+Migrating to v1.4,A guide to migrating your project from earlier versions of the Maps SDK for Unity to v1.4+.,Unity
+Add an image,Dark vector baselayer with radar weather image overlay.,Mapbox GL JS
+Custom destination marker,Add a custom marker to the destination.,iOS
+Manage large data files for Mapbox Studio with Tippecanoe,Learn how to manage big data files and make a scale-independent view of your data.,Help
+Data-driven circles,Dynamically style a circle layer with data-driven styling.,iOS
+Route generation,Learn how to generate routes for use in the Mapbox Navigation SDK or Navigation UI SDK for Android.,Android
+World-scale AR,An overview of the world-scale AR example provided in the Mapbox Maps SDK for Unity.,Unity
+Examples,Learn how to use Python to manipulate and parse the Traffic Data CSV files.,Traffic Data
+Sort stores by distance,This guide walks you through all the code that you need to build a store locator which lets you search for the nearest location.,Help
+Style lines with a data-driven property,Creating a visualization with a data expression for line-color.,Mapbox GL JS
+Use custom Mapbox styles in Tableau,General configuration guidance and tips for using custom Mapbox maps in Tableau.,Help
+Center the map on a clicked symbol,Using events and flyTo to center the map on a symbol.,Mapbox GL JS
+monthly active users,Monthly active users (MAU) is the number of users who accessed Mapbox services within your applications during a given month.,Help
+Traffic,Discover how to display real-time road traffic on your Android map with the Mapbox Android Traffic Plugin. All it requires is two lines of code.,Android
+Add annotation views and images,Add multiple annotations containing views and images.,iOS
+Datasets API,"The Mapbox Datasets API allows you to read, create, update, and remove datasets and dataset features.",Help
+Data time lapse,Use data-driven styling to visualize point data with a time lapse effect; rainfall in China in this example.,Android
+Add a new layer below labels,"Using the second argument of addLayer, you can be more precise.",Mapbox GL JS
+dataset ID,Use the dataset ID to make requests related to the dataset using the Datasets API.,Help
+Replace features,An overview of the replace features example scene provided in the Mapbox Maps SDK for Unity.,Unity
+Tilequery,Official documentation on the Mapbox Java SDK Tilequery API.,Android
+Add a line style layer from GeoJSON,Add a polyline from a GeoJSON source and style it dynamically.,iOS
+Display 3D building height based on vector data,Use extrusions to display 3D building height based on imported vector data.,Android
+Navigation Map Route,Shows different styles using NavigationMapRoute.,Android
+Satellite styles,Use the satellite base layer on your map.,iOS
+Mapbox.js,Mapbox.js is a JavaScript library that allows you to add an your interactive map to your website.,Help
+Circle radius,Set the radii of a circle layer's circles based on a data property.,Android
+Speeding alerts,Display an alert when the vehicle is speeding.,Android
+Introduction,A brief introduction to the Mapbox China plugin for iOS.,iOS
+Introduction,Reference documentation for Mapbox-maintained vector tilesets.,Vector tiles
+Geospatial data,Learn how uploading data works in Mapbox Studio.,Mapbox Studio manual
+CartoCSS,CartoCSS is a language used by Mapbox Studio Classic to build classic styles.,Help
+Custom destination marker,Add a custom marker to the destination.,iOS
+Manage large data files for Mapbox Studio with Tippecanoe,Learn how to manage big data files and make a scale-independent view of your data.,Help
+Data-driven circles,Dynamically style a circle layer with data-driven styling.,iOS
+Route generation,Learn how to generate routes for use in the Mapbox Navigation SDK or Navigation UI SDK for Android.,Android
+World-scale AR,An overview of the world-scale AR example provided in the Mapbox Maps SDK for Unity.,Unity
+Examples,Learn how to use Python to manipulate and parse the Traffic Data CSV files.,Traffic Data
+Sort stores by distance,This guide walks you through all the code that you need to build a store locator which lets you search for the nearest location.,Help
+Style lines with a data-driven property,Creating a visualization with a data expression for line-color.,Mapbox GL JS
+Use custom Mapbox styles in Tableau,General configuration guidance and tips for using custom Mapbox maps in Tableau.,Help
+Transparent render surface,Create a transparent background and fill it with something such as moving water.,Android
+Optimization API,The Mapbox Optimization API returns a duration-optimized route between provided input coordinates.,Help
+Symbol layer info window,"Use SymbolLayer and icons to show data in a BubbleLayout ""info window"".",Android
+Display water depth,Use data-driven styling to show bathymetry (water depth) data.,Android
+Draw a polygon,Draw a vector polygon on a map with the Mapbox Maps SDK.,Android
+Location picker,Drop a marker at a specific location and then perform reverse geocoding.,Android
+Center the map on a clicked symbol,Using events and flyTo to center the map on a symbol.,Mapbox GL JS
+monthly active users,Monthly active users (MAU) is the number of users who accessed Mapbox services within your applications during a given month.,Help
+Traffic,Discover how to display real-time road traffic on your Android map with the Mapbox Android Traffic Plugin. All it requires is two lines of code.,Android
+Add annotation views and images,Add multiple annotations containing views and images.,iOS
+Datasets API,"The Mapbox Datasets API allows you to read, create, update, and remove datasets and dataset features.",Help
+Data time lapse,Use data-driven styling to visualize point data with a time lapse effect; rainfall in China in this example.,Android
+Change a layer's color,Using layer set to change a layer's fill color.,Android
+Fit to the bounds of a LineString,Get the bounds of a LineString by passing its first coordinates to LngLatBounds and chaining extend to include the last coordinates.,Mapbox GL JS
+Add 3D buildings to a Mapbox Studio style,Add a 3D building layer to a map style in Mapbox Studio.,Help
+Add a GeoJSON polygon,Style a polygon with the fill layer type.,Mapbox GL JS
+Locate the user,Geolocate the user and then track their current location on the map using the GeolocateControl.,Mapbox GL JS
+Mapbox Terrain v2,Reference documentation for the Mapbox Terrain v2 tileset.,Vector tiles
+Address geocoding format guide,Follow these best practices when formatting addresses for geocoding.,Help
+Custom maps,An overview of using custom data and styles in the Mapbox Maps SDK for Unity.,Unity
+Collaboration best practices,Learn best practices for setting up an account and collaborating on projects.,Help
+Display a non-interactive map,Setting interactive: false to create a static map.,Mapbox GL JS
+MarkerView,Read docs on the Mapbox MarkerView Plugin for Android. Quickly customize and add Android view-based markers to a Mapbox map.,Android
+Filter features within map view,Move the map to query viewable features in a vector tile layer and filter by typing in an input.,Mapbox GL JS
+Maps service,Overview of the Mapbox Maps service APIs.,API
+Tracking device location for Android,Display a Mapbox map on an Android device and receive updates on the device's current location.,Help
+CarPlay support in the Navigation SDK,Learn how to use the Mapbox Navigation SDK for iOS with CarPlay.,iOS
+bounding box,A bounding box is a mechanism for describing a particular area of a map.,Help
+City simulator,An overview of the city simulator example scene provided in the Mapbox Maps SDK for Unity.,Unity
+Maneuver instructions,Learn how default and custom milestones are used to trigger text and voice instructions in the core Mapbox Navigation SDK and Navigation UI SDK for Android.,Android
+Rotate and tilt with 3D buildings,Rotate and tilt device to change camera and see all around 3D buildings.,Android
+Use a custom render function with a geocoder,Use a custom html rendering function with the mapbox-gl-geocoder to customize how the dropdown menu is displayed.,Mapbox GL JS
+Attribution,"Learn when, why, and how you are required to add attribution to applications built with Mapbox.",Help
+OpenStreetMap,OpenStreetMap is a collaborative mapping project that creates a worldwide base map.,Help
+Feature count,Get the feature count inside a bounding box and highlight all the buildings.,Android
+Display a satellite map,Satellite raster baselayer.,Mapbox GL JS
+Source limits in Mapbox Studio styles,Read about strategies for reducing the number of tileset sources in Mapbox Studio styles.,Help
+Location,Offical documentation about the Mapbox Android Location Layer Plugin. Show the Android device's location on a Mapbox Map in a few quick steps.,Android
+Join local JSON data with vector tile geometries,Style a choropleth by merging local JSON data with vector tile geometries.,Mapbox GL JS
+Add a vector tile source,Add a vector source to a map.,Mapbox GL JS
+Introduction,Get started with Mapbox Atlas.,Atlas
+Click on single layer,Click on and highlight a selected GeoJSON polygon.,Android
+Offline routing,Mapbox offline navigation provides routing functionality from the Navigation SDK for Android in non-connected environments.,Android
+Apply a style designed in Mapbox Studio,Use a style created in Mapbox Studio with the Mapbox Maps SDK for iOS.,iOS
+Mapbox Streets v5,Reference documentation for the Mapbox Streets v5 tileset.,Vector tiles
+RecyclerView interaction,Manipulate the map based on recyclerview interactions.,Android
+Customize the user location annotation,Override the default user location annotation.,iOS
+Show polygon information on click,"When a user clicks a polygon, show a Popup containing more information.",Mapbox GL JS
+Filter symbols by toggling a list,Filter a set of symbols based on a property value in the data.,Mapbox GL JS
+Animate a line,Add an animated polyline from a GeoJSON source.,iOS
+Troubleshooting,Resolve common issues across Mapbox products.,Help
+marker,A marker is a visual representation of a specific coordinate on a map.,Help
+Offline manager,"Download, view, navigate to, and delete an offline region.",Android
+Legacy Atlas,Legacy Atlas.,Atlas
+Traffic and directions,A showcase of Mapbox's traffic and directions data.,Unity
+Adjust a layer's opacity,Drag the range slider to adjust the opacity of a raster layer on top of a map.,Mapbox GL JS
+Mapbox Navigation SDK,The Mapbox Navigation SDK provides an open source toolset for integrating turn-by-turn navigation within mobile applications.,Help
+Mapbox Studio Classic,Mapbox Studio Classic is a desktop application for designing classic styles.,Help
+Mapbox Maps SDK for Android,The Mapbox Maps SDK for Android is an open source toolset for building mapping applications for Android devices.,Help
+API,"An API, or application programming interface, is a specification for how software libraries should interact with each other.",Help
+Add a geocoder,Use the mapbox-gl-geocoder control to search for places using Mapbox Geocoding API. Check out our Search Playground to explore geocoding query parameters and how they affect the results.,Mapbox GL JS
+Examples,Code examples for the Mapbox Navigation SDK for Android.,Android
+Testing and development,An overview of strategies for testing and developing with the Vision SDK.,Android
+Local style or custom raster style,Load a locally stored map style JSON file or custom raster style via a URL.,Android
+Georeference imagery,Take your non-georeferenced aerial image or historical map and get it onto a Mapbox map with the help of QGIS.,Help
+Use Atlas with other Mapbox products,Use Atlas with other Mapbox products.,Atlas
+Inconsistencies in statistics and invoices,Understand what situations might result in inconsistencies between your statistics page and monthly invoices.,Help
+CORS errors,Learn how to address CORS errors.,Help
+Customize label text for a single label,Use expressions in Mapbox Studio to alter a single label.,Help
+Examples,Code examples for the Mapbox Maps SDK for Android.,Android
+Style with missing icon,Provide an icon when a Style failed to load one.,Android
+Processing satellite imagery,"Learn how to find satellite raster data, process it using the Rasterio command-line tool, and publish it on a webpage.",Help
+Isochrone API,The Mapbox Isochrone API allows you to request polygon or line features that show areas that are reachable within a specified amount of time from a location.,Help
+Runtime styling,"Use Mapbox's runtime styling features to create dynamic maps and visualizations that respond to user interaction, context, and more.",iOS
+View a fullscreen map,Toggle between current view and fullscreen mode.,Mapbox GL JS
+Overview,Learn about the building blocks that Mapbox provides so you can create custom mapping applications.,Help
+Get started with Mapbox Boundaries v1,Get started with v1 of the Mapbox Boundaries tileset.,Help
+Dependencies,Install Atlas dependencies.,Atlas
+Tilesets API,"The Mapbox Tilesets API allows you to list, delete, and retrieve TileJSON metadata for raster and vector tilesets.",Help
+Snaking directions,"Rather than showing the directions route all at once, have it ""snake"" from the origin to destination.",Android
+Get coordinates of the mouse pointer,Showing mouse position on hover with pixel and latitude and longitude coordinates.,Mapbox GL JS
+Map design for iOS,An overivew of best practices for designing maps for use on iOS.,iOS
+Use Mapbox with OpenLayers,Learn how to use Mapbox with OpenLayers.,Help
+Isochrone,Official documentation on the Mapbox Java SDK Isochrone API.,Android
+Style a heatmap layer,Add and style a heatmap layer.,Mapbox Studio manual
+Display a popup on hover,"When a user hovers over a symbol, show a Popup containing more information.",Mapbox GL JS
+Search service,Overview of the Mapbox Search service APIs.,API
+Simplify a polyline,"Using the polylines utility, simplify a polyline which reduces the amount of coordinates making up the polyline depending on tolerance.",Android
+data-driven styling,Data-driven styling allows you to style your spatial data based on its properties.,Help
+Symbol listener,Listen for SymbolLayer icon interaction using the Annotation plugin and its built-in listeners.,Android
+CSV file errors,Learn how to fix errors when uploading CSV files.,Help
+tileset,A tileset is a collection of raster or vector data broken up into a uniform grid of square tiles at 22 preset zoom levels.,Help
+routing profile,A routing profile is a set of rules that a routing engine uses to find the optimal route between two points.,Help
+Localization,Mapbox Android Localization Plugin.,Android
+Waypoint arrival screen,Display a message when a user arrives at a waypoint.,iOS
+Access elevation data,Learn how to access elevation data in Mapbox tilesets.,Help
+API Playground,Fill in the parameters to see how the Mapbox Search and Navigation APIs work.,API Playground
+Configure the extension,Configure the extension.,Geographic Analytics
+Inset map,Show a smaller inset map fragment and link it to a larger map for two map interaction. Great for gaming.,Android
+Add a polygon annotation,Draw a vector polygon on a map with the Mapbox Maps SDK for iOS.,iOS
+raster data,Rasters are a pixel-based data format that efficiently represent continuous surfaces.,Help
+Route generation,Learn how to generate routes for use in the Mapbox Navigation SDK for iOS.,iOS
+Style a single country,Find and upload open source data to style in Mapbox Studio.,Help
+How to regain access to your account,Learn to troubleshoot common account lockout scenarios.,Help
+Keep access tokens private in open source iOS and Android apps,Learn how to protect your access tokens so that they aren't used by others.,Help
+Help,Help and troubleshooting articles for the Mapbox Maps SDK for iOS.,iOS
+Install Atlas,"Download, install, and set up Atlas.",Atlas
+Add a Mapbox Studio style as a basemap in ArcGIS Online,Add your map as a basemap to ArcGIS Online.,Help
+Speeding alerts,Display an alert when the vehicle is speeding.,iOS
+font stack,A font stack is a collection of fonts that belong to an individual layer within a style.,Help
+MBTiles,MBTiles is a file format for storing tilesets.,Help
+Troubleshoot raster image with black background,Learn how to fix raster images that display black backgrounds.,Help
+First steps with the Mapbox Maps SDK for iOS,"Walk through installing the Mapbox Maps SDK for iOS, getting a map on the screen, and placing a pin on it.",Help
+Mapbox GL JS usage playground,"Interact with a Mapbox GL JS map to understand the relationship between billing units including map loads, map views, and tile requests.",Help
+Attribution,Learn how to add attribution to Unity applications that use the Mapbox Maps SDK for Unity.,Unity
+Mapbox offline tile count estimator,Estimate the number of tiles required to download an offline region using the Mapbox Maps SDK for Android and iOS.,Help
+Change map text to device language,Use the plugin to automatically change map label text to the language set on the device.,Android
+source,A source supplies data to be shown on maps that use Mapbox GL.,Help
+Display driving directions,Use the mapbox-gl-directions plugin to show results from the Mapbox Directions API. Click the map to add an origin and destination.,Mapbox GL JS
+Leaflet,Leaflet is an open source web mapping library that forms the basis of Mapbox.js.,Help
+NavigationView with Fragment,NavigationView implemented with Fragment.,Android
+Upload data to Mapbox,"Learn how to prepare data for upload, interpret error messages, and troubleshoot failed uploads.",Help
+Integrate the Mapbox Visual with Microsoft Power BI,General configuration guidance and tips for using the Mapbox Visual in Microsoft Power BI.,Help
+Display and style rich text labels,Uses the format expression to display country labels in both English and in the local language.,Mapbox GL JS
+Create a hover effect,Using events and feature states to create a per feature hover effect.,Mapbox GL JS
+Marker playground,"Add a marker to the map and view the platform-specific code to recreate this map in your own iOS, Android, React Native, or web application.",Help
+Create a heatmap layer,Visualize earthquake data using a heatmap layer.,iOS
+Create and style clusters,Use Mapbox GL JS' built-in functions to visualize points as clusters.,Mapbox GL JS
+Show time lapse,Use an image source and a runnable to show data changes over time.,Android
+Use GeoJSON data to set extrusion height,Use data-driven styling and GeoJSON data to set extrusion heights.,Android
+style URL,A style URL allows you to reference a style created with Mapbox Studio.,Help
+offline regions and offline packs,An offline region is a defined region of a map that is available for use in conditions with limited or no network connection.,Help
+Maki,Maki is an icon set developed by Mapbox for map designers.,Help
+Define a circle in physical units,"Use Turf to generate a circle with a radius expressed in physical units (e.g. miles, kilometers, etc).",Android
+Add a GeoJSON line,Add a GeoJSON line to a map.,Mapbox GL JS
+Outlined polygon hole,Outline a polygon hole to highlight a revealed region.,Android
+Build a navigation app for Android,Integrate navigation into any Android application.,Help
+Point conversion,Convert between screen location and geographic coordinates.,iOS
+Navigate the map with game-like controls,Move around the map with game-like controls.,Mapbox GL JS
+Unity applications,"Learn how the Mapbox Maps SDK for Unity works, how to use it, and how to get started building applications.",Help
+Troubleshoot Tilesets API errors,This feature is in beta. Learn how to debug common errors with the Mapbox Tilesets API.,Help
+Scale bar,Add a scale bar to determine distance based on zoom level.,Android
+Transfer styles between accounts,Learn how to transfer Mapbox styles between accounts.,Help
+style,A style is a document that defines the visual appearance of a map.,Help
+Get started with the Isochrone API,"Create a web app using the Mapbox Isochrone API that allows users to visualize how far they could walk, bike, or drive within a given amount of time.",Help
+Add a WMS source,Adding an external Web Map Service layer to the map.,Mapbox GL JS
+Optimize map label placement,Optimize label placement on web and mobile maps.,Help
+Mapbox Streets v7,Reference documentation for the Mapbox Streets v7 tileset.,Vector tiles
+Expressions,The Mapbox Maps SDK for Android.,Android
+Create a map in Unity,Use the Mapbox Maps SDK for Unity to create a visualization of 3D buildings on top of a 3D terrain map for use in a Unity application.,Help
+Get started with expressions using the Mapbox Maps SDK for iOS,Create a map for iOS that styles a circle based on a data attribute.,Help
+Run Atlas,Run Atlas.,Atlas
+Route progress,Learn how to use a user's progress information along a route with the Mapbox Navigation SDK and Navigation UI for Android.,Android
+Change a map's style,Switch to another map style.,Mapbox GL JS
+Introduction,Official documentation and overview of the Mapbox Navigation SDK for Android.,Android
+Mapbox Matrix API elements,Elements are the source and destination coordinate pairs used in a Mapbox Matrix API request.,Help
+Building outline,Query the building layer and show a building's outline.,Android
+Navigation views,Create a drop-in navigation UI experience.,Android
+Navigation service,Overview of the Mapbox Navigation service APIs.,API
+Introduction,An introduction to the Mapbox web services APIs.,API
